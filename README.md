@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrktk1mina
+- 👋 Hi, I’m @Abruzy.eth
 - 👀 I’m interested in Decentralization and power of participants
 - 🌱 I’m currently learning about how to create Defi products
 - 💞️ I’m looking to collaborate on creating a new paradigm of capital efficientcy era
